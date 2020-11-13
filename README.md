@@ -17,12 +17,22 @@ Sources in src catalog
 
 ![Screenshoots](/screenshoots/01-OdinTestXP.png)
 
+Not Win 7
+
 ![Screenshoots](/screenshoots/02-Win7-Odin.png)
+
+Win 7 in Odin "acitivator"
 
 ![Screenshoots](/screenshoots/03-odin-kill-working.png)
 
+Odin Kill in processing
+
 ![Screenshoots](/screenshoots/04-RestorePoint.png)
+
+Restore Point creating by Odin Kill
 
 ![Screenshoots](/screenshoots/05-AfterOdin.png)
 
 ![Screenshoots](/screenshoots/06-AfterOdin.png)
+
+Odin "activator" removed.

@@ -5,6 +5,10 @@ Old (batch script) version in archive (bat-version).
 
 New version based on NSIS installer system.
 
+### Download
+
+Download Odin Kill: https://github.com/tolik-punkoff/odin-kill/blob/master/bin/OdinKill.exe?raw=true
+
 Used SetACL.exe by Helge Klein
 
 https://helgeklein.com/setacl/documentation/command-line-version-setacl-exe/
